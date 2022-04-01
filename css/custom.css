@@ -1,0 +1,13 @@
+.scroll-to-top{
+	position: fixed;
+	bottom: 0px;
+	right: 15px;
+	z-index: 9999;	
+	display: none;	
+}
+.scroll-to-top a {
+	color: #FFF;
+	background: #666;	
+	padding: 5px 10px;
+	background-origin: 5px 5px 0 0;		
+}
